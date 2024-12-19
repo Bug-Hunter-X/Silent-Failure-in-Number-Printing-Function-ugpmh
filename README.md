@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a TypeScript function that prints numbers. The function `printNumbers` silently fails when provided with a negative or zero input.  The solution shows how to modify the function to handle these cases more robustly, providing informative feedback to the user.
